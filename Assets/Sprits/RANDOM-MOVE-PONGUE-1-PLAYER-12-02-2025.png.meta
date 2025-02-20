@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 93cd28a01194e8a4c87bd0a03cb113bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5441977806919408481
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_0
+  - first:
+      213: 6161695982697182131
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_1
+  - first:
+      213: -7066277321114477106
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_2
+  - first:
+      213: 4718805989932329929
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_3
+  - first:
+      213: -4280993475215089823
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_4
+  - first:
+      213: -1208239673438884707
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_5
+  - first:
+      213: 5793853975045724051
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_6
+  - first:
+      213: 2363605994719184377
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_7
+  - first:
+      213: 1142315234679692570
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_8
+  - first:
+      213: 5977381671260846679
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_9
+  - first:
+      213: -6462876651963372915
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_10
+  - first:
+      213: -8332946045960240088
+    second: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 1024
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2fea019a81afc46a92e4ad5e8ecfec
+      internalID: 1003359522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 1024
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd468c15a20f345b5ec3f428616c06
+      internalID: -1236533481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 1024
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ccfc25db455be43ba89d272c59ef4a
+      internalID: -1206164930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 1024
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6687d19f1d41b45b36731fb4400677
+      internalID: 757368909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca88e8239c909e4a9774c50c9249424
+      internalID: 1216280798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cbe170cb00a602b4eadf957e44cd06fa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_0: 1003359522
+      RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_1: -1236533481
+      RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_2: -1206164930
+      RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_3: 757368909
+      RANDOM-MOVE-PONGUE-1-PLAYER-12-02-2025_4: 1216280798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
